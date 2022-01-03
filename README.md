@@ -4,7 +4,7 @@ code sessions for devs
 
 ## Sessions to come
 
-please add here ideas for sessions you'd like to present/just hear
+please add here ideas for sessions you'd like to present/just listen
 
 - Debugging
 - How to review a PR
